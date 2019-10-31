@@ -1,2 +1,2 @@
-# luigi
-Velocità di elettroni
+# 
+Velocità di elettroni alla potenza
